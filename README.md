@@ -100,6 +100,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Krishna02213/Krishna02213/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Krishna02213/Krishna02213/tree/master/0392-is-subsequence) |
 ## Breadth-First Search
 |  |
@@ -109,4 +110,12 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Krishna02213/Krishna02213/tree/master/0733-flood-fill) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Krishna02213/Krishna02213/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Krishna02213/Krishna02213/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
