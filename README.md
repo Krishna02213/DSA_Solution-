@@ -53,10 +53,12 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Krishna02213/Krishna02213/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Krishna02213/Krishna02213/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Krishna02213/Krishna02213/tree/master/0062-unique-paths) |
 | [0392-is-subsequence](https://github.com/Krishna02213/Krishna02213/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Krishna02213/Krishna02213/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -118,4 +120,8 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Krishna02213/Krishna02213/tree/master/0242-valid-anagram) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Krishna02213/Krishna02213/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
