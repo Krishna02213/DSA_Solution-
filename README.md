@@ -73,11 +73,13 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Krishna02213/Krishna02213/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Krishna02213/Krishna02213/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/Krishna02213/Krishna02213/tree/master/0733-flood-fill) |
@@ -89,6 +91,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0100-same-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Krishna02213/Krishna02213/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Linked List
@@ -107,6 +110,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0100-same-tree) |
 | [0733-flood-fill](https://github.com/Krishna02213/Krishna02213/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
