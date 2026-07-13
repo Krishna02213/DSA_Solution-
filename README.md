@@ -45,6 +45,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishna02213/Krishna02213/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna02213/Krishna02213/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Krishna02213/Krishna02213/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Krishna02213/Krishna02213/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/Krishna02213/tree/master/0347-top-k-frequent-elements) |
@@ -54,6 +55,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishna02213/Krishna02213/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna02213/Krishna02213/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna02213/Krishna02213/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Krishna02213/Krishna02213/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Krishna02213/Krishna02213/tree/master/0392-is-subsequence) |
 ## String
