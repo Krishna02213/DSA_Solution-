@@ -178,4 +178,8 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Krishna02213/Krishna02213/tree/master/0232-implement-queue-using-stacks) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Krishna02213/Krishna02213/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
