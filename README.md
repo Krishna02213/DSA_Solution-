@@ -114,12 +114,14 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Krishna02213/Krishna02213/tree/master/0021-merge-two-sorted-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/Krishna02213/Krishna02213/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna02213/Krishna02213/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Krishna02213/Krishna02213/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Krishna02213/Krishna02213/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/Krishna02213/Krishna02213/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
