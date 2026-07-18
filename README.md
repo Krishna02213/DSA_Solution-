@@ -45,6 +45,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishna02213/Krishna02213/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/Krishna02213/Krishna02213/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna02213/Krishna02213/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Krishna02213/Krishna02213/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna02213/Krishna02213/tree/master/0215-kth-largest-element-in-an-array) |
@@ -147,6 +148,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Krishna02213/Krishna02213/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna02213/Krishna02213/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Krishna02213/Krishna02213/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/Krishna02213/tree/master/0347-top-k-frequent-elements) |
