@@ -54,6 +54,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/Krishna02213/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/Krishna02213/Krishna02213/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Krishna02213/Krishna02213/tree/master/0733-flood-fill) |
+| [0977-squares-of-a-sorted-array](https://github.com/Krishna02213/DSA_Solution-/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -130,6 +131,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0283-move-zeroes](https://github.com/Krishna02213/Krishna02213/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Krishna02213/Krishna02213/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Krishna02213/Krishna02213/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Krishna02213/DSA_Solution-/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna02213/Krishna02213/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Krishna02213/Krishna02213/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/Krishna02213/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/Krishna02213/DSA_Solution-/tree/master/0977-squares-of-a-sorted-array) |
 ## Combinatorics
 |  |
 | ------- |
