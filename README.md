@@ -92,6 +92,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0226-invert-binary-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Krishna02213/Krishna02213/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Krishna02213/Krishna02213/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/Krishna02213/Krishna02213/tree/master/0463-island-perimeter) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Krishna02213/Krishna02213/tree/master/0733-flood-fill) |
 ## Binary Search Tree
 |  |
@@ -118,6 +120,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0226-invert-binary-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Krishna02213/Krishna02213/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -144,6 +147,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Krishna02213/Krishna02213/tree/master/0463-island-perimeter) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Krishna02213/Krishna02213/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
