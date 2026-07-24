@@ -54,6 +54,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0283-move-zeroes](https://github.com/Krishna02213/Krishna02213/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/Krishna02213/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/Krishna02213/Krishna02213/tree/master/0463-island-perimeter) |
+| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/Krishna02213/Krishna02213/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna02213/DSA_Solution-/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -167,6 +168,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishna02213/DSA_Solution-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/Krishna02213/Krishna02213/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/Krishna02213/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna02213/Krishna02213/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Krishna02213/Krishna02213/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/Krishna02213/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna02213/DSA_Solution-/tree/master/0977-squares-of-a-sorted-array) |
 ## Combinatorics
 |  |
@@ -191,6 +194,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna02213/Krishna02213/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/Krishna02213/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -199,6 +203,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/Krishna02213/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -224,4 +229,8 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | ------- |
 | [0584-find-customer-referee](https://github.com/Krishna02213/Krishna02213/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Krishna02213/Krishna02213/tree/master/1757-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
