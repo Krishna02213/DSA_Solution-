@@ -56,6 +56,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/Krishna02213/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/Krishna02213/Krishna02213/tree/master/0463-island-perimeter) |
 | [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
+| [0704-binary-search](https://github.com/Krishna02213/DSA_Solution-/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Krishna02213/Krishna02213/tree/master/0733-flood-fill) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna02213/DSA_Solution-/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -63,6 +64,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishna02213/Krishna02213/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna02213/Krishna02213/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Krishna02213/DSA_Solution-/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
