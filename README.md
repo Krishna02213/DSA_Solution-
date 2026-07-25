@@ -92,6 +92,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0100-same-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishna02213/DSA_Solution-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Krishna02213/Krishna02213/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -103,6 +104,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0098-validate-binary-search-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Krishna02213/Krishna02213/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -123,6 +125,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0100-same-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishna02213/DSA_Solution-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Krishna02213/Krishna02213/tree/master/0230-kth-smallest-element-in-a-bst) |
