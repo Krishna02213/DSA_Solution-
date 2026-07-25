@@ -44,6 +44,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Krishna02213/DSA_Solution-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishna02213/Krishna02213/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Krishna02213/Krishna02213/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Krishna02213/Krishna02213/tree/master/0056-merge-intervals) |
@@ -141,6 +142,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Krishna02213/DSA_Solution-/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna02213/Krishna02213/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Krishna02213/Krishna02213/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Krishna02213/Krishna02213/tree/master/0392-is-subsequence) |
@@ -175,6 +177,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Krishna02213/DSA_Solution-/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Krishna02213/Krishna02213/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna02213/Krishna02213/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Krishna02213/Krishna02213/tree/master/0242-valid-anagram) |
