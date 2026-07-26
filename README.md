@@ -51,6 +51,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishna02213/DSA_Solution-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna02213/Krishna02213/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Krishna02213/Krishna02213/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Krishna02213/DSA_Solution-/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna02213/Krishna02213/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Krishna02213/Krishna02213/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/Krishna02213/tree/master/0347-top-k-frequent-elements) |
@@ -110,6 +111,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/Krishna02213/DSA_Solution-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Krishna02213/Krishna02213/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -163,6 +165,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | ------- |
 | [0100-same-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Krishna02213/DSA_Solution-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Krishna02213/Krishna02213/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Krishna02213/Krishna02213/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -170,6 +173,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Krishna02213/DSA_Solution-/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Krishna02213/Krishna02213/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Krishna02213/Krishna02213/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -244,4 +248,8 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Krishna02213/DSA_Solution-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
