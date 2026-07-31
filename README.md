@@ -79,6 +79,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Krishna02213/Krishna02213/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Krishna02213/Krishna02213/tree/master/0062-unique-paths) |
+| [0091-decode-ways](https://github.com/Krishna02213/DSA_Solution-/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Krishna02213/Krishna02213/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Krishna02213/Krishna02213/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Krishna02213/Krishna02213/tree/master/0509-fibonacci-number) |
@@ -162,6 +163,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Krishna02213/DSA_Solution-/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/Krishna02213/Krishna02213/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Krishna02213/Krishna02213/tree/master/0392-is-subsequence) |
 ## Breadth-First Search
