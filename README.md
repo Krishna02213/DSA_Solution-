@@ -146,6 +146,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Krishna02213/Krishna02213/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/Krishna02213/Krishna02213/tree/master/0206-reverse-linked-list) |
@@ -154,6 +155,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Krishna02213/DSA_Solution-/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna02213/Krishna02213/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Krishna02213/Krishna02213/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Krishna02213/DSA_Solution-/tree/master/0287-find-the-duplicate-number) |
