@@ -72,6 +72,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Krishna02213/DSA_Solution-/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Krishna02213/Krishna02213/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Krishna02213/Krishna02213/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -86,6 +87,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Krishna02213/DSA_Solution-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Krishna02213/Krishna02213/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Krishna02213/Krishna02213/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Krishna02213/Krishna02213/tree/master/0509-fibonacci-number) |
@@ -146,6 +148,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Krishna02213/DSA_Solution-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Krishna02213/Krishna02213/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0114-flatten-binary-tree-to-linked-list) |
