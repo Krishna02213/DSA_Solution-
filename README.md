@@ -47,6 +47,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0015-3sum](https://github.com/Krishna02213/DSA_Solution-/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishna02213/Krishna02213/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Krishna02213/Krishna02213/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Krishna02213/DSA_Solution-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Krishna02213/Krishna02213/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishna02213/DSA_Solution-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna02213/Krishna02213/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -79,6 +80,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Krishna02213/Krishna02213/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Krishna02213/DSA_Solution-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Krishna02213/Krishna02213/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Krishna02213/DSA_Solution-/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Krishna02213/Krishna02213/tree/master/0198-house-robber) |
@@ -262,6 +264,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Krishna02213/DSA_Solution-/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
 ## Union-Find
 |  |
