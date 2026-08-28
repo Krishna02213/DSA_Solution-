@@ -1,0 +1,32 @@
+name: Daily Random Commit
+
+on:
+  schedule:
+    - cron: "00 10 * * *"
+      timezone: "Asia/Kolkata"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Make random change
+        run: |
+          RANDOM_NUMBER=$((1 + RANDOM % 100000))
+          echo "Daily update: $RANDOM_NUMBER" >> daily-activity.txt
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daily-activity.txt
+          git commit -m "Daily random update"
+          git push
