@@ -49,6 +49,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0053-maximum-subarray](https://github.com/Krishna02213/Krishna02213/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Krishna02213/DSA_Solution-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Krishna02213/Krishna02213/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishna02213/DSA_Solution-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna02213/Krishna02213/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Krishna02213/Krishna02213/tree/master/0198-house-robber) |
@@ -161,6 +162,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | ------- |
 | [0015-3sum](https://github.com/Krishna02213/DSA_Solution-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna02213/Krishna02213/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Krishna02213/Krishna02213/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Krishna02213/DSA_Solution-/tree/master/0287-find-the-duplicate-number) |
@@ -206,6 +208,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | ------- |
 | [0015-3sum](https://github.com/Krishna02213/DSA_Solution-/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Krishna02213/Krishna02213/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna02213/Krishna02213/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Krishna02213/Krishna02213/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/Krishna02213/tree/master/0347-top-k-frequent-elements) |
@@ -292,4 +295,12 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krishna02213/DSA_Solution-/tree/master/0438-find-all-anagrams-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
