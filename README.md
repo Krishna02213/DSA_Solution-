@@ -80,6 +80,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Krishna02213/DSA_Solution-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Krishna02213/Krishna02213/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Krishna02213/DSA_Solution-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Krishna02213/Krishna02213/tree/master/0062-unique-paths) |
@@ -160,6 +161,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Krishna02213/DSA_Solution-/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Krishna02213/DSA_Solution-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/master/0075-sort-colors) |
@@ -173,6 +175,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Krishna02213/DSA_Solution-/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/Krishna02213/DSA_Solution-/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Krishna02213/DSA_Solution-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Krishna02213/Krishna02213/tree/master/0242-valid-anagram) |
@@ -305,4 +308,8 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/master/0075-sort-colors) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Krishna02213/DSA_Solution-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
