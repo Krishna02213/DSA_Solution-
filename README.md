@@ -64,6 +64,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Krishna02213/DSA_Solution-/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Krishna02213/Krishna02213/tree/master/0733-flood-fill) |
+| [0904-fruit-into-baskets](https://github.com/Krishna02213/DSA_Solution-/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krishna02213/DSA_Solution-/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -210,6 +211,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krishna02213/DSA_Solution-/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna02213/DSA_Solution-/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
+| [0904-fruit-into-baskets](https://github.com/Krishna02213/DSA_Solution-/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -304,6 +306,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna02213/DSA_Solution-/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krishna02213/DSA_Solution-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/Krishna02213/DSA_Solution-/tree/master/0904-fruit-into-baskets) |
 ## Quicksort
 |  |
 | ------- |
