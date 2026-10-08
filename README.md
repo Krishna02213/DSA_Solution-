@@ -277,6 +277,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | ------- |
 | [0584-find-customer-referee](https://github.com/Krishna02213/Krishna02213/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Krishna02213/DSA_Solution-/tree/master/0595-big-countries) |
+| [1148-article-views-i](https://github.com/Krishna02213/DSA_Solution-/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Krishna02213/Krishna02213/tree/master/1757-recyclable-and-low-fat-products) |
 ## Greedy
 |  |
