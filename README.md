@@ -44,57 +44,57 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Array
 |  |
 | ------- |
-| [0015-3sum](https://github.com/Krishna02213/DSA_Solution-/tree/master/0015-3sum) |
+| [0015-3sum](https://github.com/Krishna02213/DSA_Solution-/tree/main/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishna02213/DSA_Solution-/tree/main/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Krishna02213/DSA_Solution-/tree/main/0053-maximum-subarray) |
-| [0055-jump-game](https://github.com/Krishna02213/DSA_Solution-/tree/master/0055-jump-game) |
+| [0055-jump-game](https://github.com/Krishna02213/DSA_Solution-/tree/main/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Krishna02213/DSA_Solution-/tree/main/0056-merge-intervals) |
-| [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/master/0075-sort-colors) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishna02213/DSA_Solution-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/main/0075-sort-colors) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishna02213/DSA_Solution-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna02213/DSA_Solution-/tree/main/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Krishna02213/DSA_Solution-/tree/main/0198-house-robber) |
-| [0200-number-of-islands](https://github.com/Krishna02213/DSA_Solution-/tree/master/0200-number-of-islands) |
-| [0209-minimum-size-subarray-sum](https://github.com/Krishna02213/DSA_Solution-/tree/master/0209-minimum-size-subarray-sum) |
+| [0200-number-of-islands](https://github.com/Krishna02213/DSA_Solution-/tree/main/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Krishna02213/DSA_Solution-/tree/main/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna02213/DSA_Solution-/tree/main/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Krishna02213/DSA_Solution-/tree/main/0283-move-zeroes) |
-| [0287-find-the-duplicate-number](https://github.com/Krishna02213/DSA_Solution-/tree/master/0287-find-the-duplicate-number) |
+| [0287-find-the-duplicate-number](https://github.com/Krishna02213/DSA_Solution-/tree/main/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/DSA_Solution-/tree/main/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/Krishna02213/DSA_Solution-/tree/main/0463-island-perimeter) |
-| [0560-subarray-sum-equals-k](https://github.com/Krishna02213/DSA_Solution-/tree/master/0560-subarray-sum-equals-k) |
-| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
-| [0704-binary-search](https://github.com/Krishna02213/DSA_Solution-/tree/master/0704-binary-search) |
+| [0560-subarray-sum-equals-k](https://github.com/Krishna02213/DSA_Solution-/tree/main/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/main/0621-task-scheduler) |
+| [0704-binary-search](https://github.com/Krishna02213/DSA_Solution-/tree/main/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Krishna02213/DSA_Solution-/tree/main/0733-flood-fill) |
-| [0904-fruit-into-baskets](https://github.com/Krishna02213/DSA_Solution-/tree/master/0904-fruit-into-baskets) |
-| [0977-squares-of-a-sorted-array](https://github.com/Krishna02213/DSA_Solution-/tree/master/0977-squares-of-a-sorted-array) |
+| [0904-fruit-into-baskets](https://github.com/Krishna02213/DSA_Solution-/tree/main/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/Krishna02213/DSA_Solution-/tree/main/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishna02213/DSA_Solution-/tree/main/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna02213/DSA_Solution-/tree/main/0167-two-sum-ii-input-array-is-sorted) |
-| [0209-minimum-size-subarray-sum](https://github.com/Krishna02213/DSA_Solution-/tree/master/0209-minimum-size-subarray-sum) |
-| [0287-find-the-duplicate-number](https://github.com/Krishna02213/DSA_Solution-/tree/master/0287-find-the-duplicate-number) |
-| [0704-binary-search](https://github.com/Krishna02213/DSA_Solution-/tree/master/0704-binary-search) |
+| [0209-minimum-size-subarray-sum](https://github.com/Krishna02213/DSA_Solution-/tree/main/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Krishna02213/DSA_Solution-/tree/main/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Krishna02213/DSA_Solution-/tree/main/0704-binary-search) |
 ## Math
 |  |
 | ------- |
-| [0002-add-two-numbers](https://github.com/Krishna02213/DSA_Solution-/tree/master/0002-add-two-numbers) |
+| [0002-add-two-numbers](https://github.com/Krishna02213/DSA_Solution-/tree/main/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Krishna02213/DSA_Solution-/tree/main/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Krishna02213/DSA_Solution-/tree/main/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
-| [0005-longest-palindromic-substring](https://github.com/Krishna02213/DSA_Solution-/tree/master/0005-longest-palindromic-substring) |
+| [0005-longest-palindromic-substring](https://github.com/Krishna02213/DSA_Solution-/tree/main/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Krishna02213/DSA_Solution-/tree/main/0053-maximum-subarray) |
-| [0055-jump-game](https://github.com/Krishna02213/DSA_Solution-/tree/master/0055-jump-game) |
+| [0055-jump-game](https://github.com/Krishna02213/DSA_Solution-/tree/main/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Krishna02213/DSA_Solution-/tree/main/0062-unique-paths) |
-| [0091-decode-ways](https://github.com/Krishna02213/DSA_Solution-/tree/master/0091-decode-ways) |
+| [0091-decode-ways](https://github.com/Krishna02213/DSA_Solution-/tree/main/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Krishna02213/DSA_Solution-/tree/main/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Krishna02213/DSA_Solution-/tree/main/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Krishna02213/DSA_Solution-/tree/main/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
-| [0002-add-two-numbers](https://github.com/Krishna02213/DSA_Solution-/tree/master/0002-add-two-numbers) |
+| [0002-add-two-numbers](https://github.com/Krishna02213/DSA_Solution-/tree/main/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Krishna02213/DSA_Solution-/tree/main/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/main/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Krishna02213/DSA_Solution-/tree/main/0509-fibonacci-number) |
@@ -108,29 +108,29 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0098-validate-binary-search-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0104-maximum-depth-of-binary-tree) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishna02213/DSA_Solution-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
-| [0110-balanced-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0110-balanced-binary-tree) |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishna02213/DSA_Solution-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/main/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Krishna02213/DSA_Solution-/tree/main/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0543-diameter-of-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0543-diameter-of-binary-tree) |
-| [0637-average-of-levels-in-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0104-maximum-depth-of-binary-tree) |
-| [0110-balanced-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0110-balanced-binary-tree) |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0114-flatten-binary-tree-to-linked-list) |
-| [0200-number-of-islands](https://github.com/Krishna02213/DSA_Solution-/tree/master/0200-number-of-islands) |
+| [0110-balanced-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/main/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/Krishna02213/DSA_Solution-/tree/main/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Krishna02213/DSA_Solution-/tree/main/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/Krishna02213/DSA_Solution-/tree/main/0463-island-perimeter) |
-| [0543-diameter-of-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0543-diameter-of-binary-tree) |
-| [0637-average-of-levels-in-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Krishna02213/DSA_Solution-/tree/main/0733-flood-fill) |
 ## Binary Search Tree
 |  |
@@ -144,87 +144,87 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0098-validate-binary-search-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0104-maximum-depth-of-binary-tree) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishna02213/DSA_Solution-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
-| [0110-balanced-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0110-balanced-binary-tree) |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishna02213/DSA_Solution-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/main/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Krishna02213/DSA_Solution-/tree/main/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree) |
-| [0543-diameter-of-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0543-diameter-of-binary-tree) |
-| [0637-average-of-levels-in-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0637-average-of-levels-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
-| [0002-add-two-numbers](https://github.com/Krishna02213/DSA_Solution-/tree/master/0002-add-two-numbers) |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0002-add-two-numbers](https://github.com/Krishna02213/DSA_Solution-/tree/main/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Krishna02213/DSA_Solution-/tree/main/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Krishna02213/DSA_Solution-/tree/main/0021-merge-two-sorted-lists) |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/main/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/main/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/main/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
-| [0005-longest-palindromic-substring](https://github.com/Krishna02213/DSA_Solution-/tree/master/0005-longest-palindromic-substring) |
-| [0015-3sum](https://github.com/Krishna02213/DSA_Solution-/tree/master/0015-3sum) |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/master/0075-sort-colors) |
-| [0125-valid-palindrome](https://github.com/Krishna02213/DSA_Solution-/tree/master/0125-valid-palindrome) |
+| [0005-longest-palindromic-substring](https://github.com/Krishna02213/DSA_Solution-/tree/main/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Krishna02213/DSA_Solution-/tree/main/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Krishna02213/DSA_Solution-/tree/main/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/main/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Krishna02213/DSA_Solution-/tree/main/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna02213/DSA_Solution-/tree/main/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Krishna02213/DSA_Solution-/tree/main/0283-move-zeroes) |
-| [0287-find-the-duplicate-number](https://github.com/Krishna02213/DSA_Solution-/tree/master/0287-find-the-duplicate-number) |
+| [0287-find-the-duplicate-number](https://github.com/Krishna02213/DSA_Solution-/tree/main/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Krishna02213/DSA_Solution-/tree/main/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/main/0876-middle-of-the-linked-list) |
-| [0977-squares-of-a-sorted-array](https://github.com/Krishna02213/DSA_Solution-/tree/master/0977-squares-of-a-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Krishna02213/DSA_Solution-/tree/main/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Krishna02213/DSA_Solution-/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0005-longest-palindromic-substring](https://github.com/Krishna02213/DSA_Solution-/tree/master/0005-longest-palindromic-substring) |
-| [0091-decode-ways](https://github.com/Krishna02213/DSA_Solution-/tree/master/0091-decode-ways) |
-| [0125-valid-palindrome](https://github.com/Krishna02213/DSA_Solution-/tree/master/0125-valid-palindrome) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Krishna02213/DSA_Solution-/tree/main/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Krishna02213/DSA_Solution-/tree/main/0005-longest-palindromic-substring) |
+| [0091-decode-ways](https://github.com/Krishna02213/DSA_Solution-/tree/main/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Krishna02213/DSA_Solution-/tree/main/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Krishna02213/DSA_Solution-/tree/main/0242-valid-anagram) |
-| [0383-ransom-note](https://github.com/Krishna02213/DSA_Solution-/tree/master/0383-ransom-note) |
+| [0383-ransom-note](https://github.com/Krishna02213/DSA_Solution-/tree/main/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Krishna02213/DSA_Solution-/tree/main/0392-is-subsequence) |
-| [0438-find-all-anagrams-in-a-string](https://github.com/Krishna02213/DSA_Solution-/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Krishna02213/DSA_Solution-/tree/main/0438-find-all-anagrams-in-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0104-maximum-depth-of-binary-tree) |
-| [0200-number-of-islands](https://github.com/Krishna02213/DSA_Solution-/tree/master/0200-number-of-islands) |
+| [0200-number-of-islands](https://github.com/Krishna02213/DSA_Solution-/tree/main/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Krishna02213/DSA_Solution-/tree/main/0463-island-perimeter) |
-| [0637-average-of-levels-in-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/Krishna02213/DSA_Solution-/tree/main/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
-| [0200-number-of-islands](https://github.com/Krishna02213/DSA_Solution-/tree/master/0200-number-of-islands) |
+| [0200-number-of-islands](https://github.com/Krishna02213/DSA_Solution-/tree/main/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Krishna02213/DSA_Solution-/tree/main/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Krishna02213/DSA_Solution-/tree/main/0733-flood-fill) |
 ## Hash Table
 |  |
 | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Krishna02213/DSA_Solution-/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishna02213/DSA_Solution-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Krishna02213/DSA_Solution-/tree/main/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishna02213/DSA_Solution-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/Krishna02213/DSA_Solution-/tree/main/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/DSA_Solution-/tree/main/0347-top-k-frequent-elements) |
-| [0383-ransom-note](https://github.com/Krishna02213/DSA_Solution-/tree/master/0383-ransom-note) |
-| [0438-find-all-anagrams-in-a-string](https://github.com/Krishna02213/DSA_Solution-/tree/master/0438-find-all-anagrams-in-a-string) |
-| [0560-subarray-sum-equals-k](https://github.com/Krishna02213/DSA_Solution-/tree/master/0560-subarray-sum-equals-k) |
-| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
-| [0904-fruit-into-baskets](https://github.com/Krishna02213/DSA_Solution-/tree/master/0904-fruit-into-baskets) |
+| [0383-ransom-note](https://github.com/Krishna02213/DSA_Solution-/tree/main/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Krishna02213/DSA_Solution-/tree/main/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Krishna02213/DSA_Solution-/tree/main/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/main/0621-task-scheduler) |
+| [0904-fruit-into-baskets](https://github.com/Krishna02213/DSA_Solution-/tree/main/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
-| [0015-3sum](https://github.com/Krishna02213/DSA_Solution-/tree/master/0015-3sum) |
+| [0015-3sum](https://github.com/Krishna02213/DSA_Solution-/tree/main/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Krishna02213/DSA_Solution-/tree/main/0056-merge-intervals) |
-| [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/master/0075-sort-colors) |
+| [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/main/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna02213/DSA_Solution-/tree/main/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Krishna02213/DSA_Solution-/tree/main/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/DSA_Solution-/tree/main/0347-top-k-frequent-elements) |
-| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
-| [0977-squares-of-a-sorted-array](https://github.com/Krishna02213/DSA_Solution-/tree/master/0977-squares-of-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/main/0621-task-scheduler) |
+| [0977-squares-of-a-sorted-array](https://github.com/Krishna02213/DSA_Solution-/tree/main/0977-squares-of-a-sorted-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -233,7 +233,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Krishna02213/DSA_Solution-/tree/main/0053-maximum-subarray) |
-| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishna02213/DSA_Solution-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krishna02213/DSA_Solution-/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna02213/DSA_Solution-/tree/main/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/DSA_Solution-/tree/main/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -241,7 +241,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Krishna02213/DSA_Solution-/tree/main/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/DSA_Solution-/tree/main/0347-top-k-frequent-elements) |
-| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
+| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/main/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -250,8 +250,8 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Krishna02213/DSA_Solution-/tree/main/0347-top-k-frequent-elements) |
-| [0383-ransom-note](https://github.com/Krishna02213/DSA_Solution-/tree/master/0383-ransom-note) |
-| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
+| [0383-ransom-note](https://github.com/Krishna02213/DSA_Solution-/tree/main/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/main/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -260,7 +260,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 ## Stack
 |  |
 | ------- |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Krishna02213/DSA_Solution-/tree/main/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/Krishna02213/DSA_Solution-/tree/main/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Krishna02213/DSA_Solution-/tree/main/0232-implement-queue-using-stacks) |
 ## Design
@@ -276,53 +276,53 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Krishna02213/DSA_Solution-/tree/main/0584-find-customer-referee) |
-| [0595-big-countries](https://github.com/Krishna02213/DSA_Solution-/tree/master/0595-big-countries) |
-| [1148-article-views-i](https://github.com/Krishna02213/DSA_Solution-/tree/master/1148-article-views-i) |
-| [1683-invalid-tweets](https://github.com/Krishna02213/DSA_Solution-/tree/master/1683-invalid-tweets) |
+| [0595-big-countries](https://github.com/Krishna02213/DSA_Solution-/tree/main/0595-big-countries) |
+| [1148-article-views-i](https://github.com/Krishna02213/DSA_Solution-/tree/main/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/Krishna02213/DSA_Solution-/tree/main/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Krishna02213/DSA_Solution-/tree/main/1757-recyclable-and-low-fat-products) |
 ## Greedy
 |  |
 | ------- |
-| [0055-jump-game](https://github.com/Krishna02213/DSA_Solution-/tree/master/0055-jump-game) |
-| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/master/0621-task-scheduler) |
+| [0055-jump-game](https://github.com/Krishna02213/DSA_Solution-/tree/main/0055-jump-game) |
+| [0621-task-scheduler](https://github.com/Krishna02213/DSA_Solution-/tree/main/0621-task-scheduler) |
 ## Union-Find
 |  |
 | ------- |
-| [0200-number-of-islands](https://github.com/Krishna02213/DSA_Solution-/tree/master/0200-number-of-islands) |
+| [0200-number-of-islands](https://github.com/Krishna02213/DSA_Solution-/tree/main/0200-number-of-islands) |
 ## Bit Manipulation
 |  |
 | ------- |
-| [0287-find-the-duplicate-number](https://github.com/Krishna02213/DSA_Solution-/tree/master/0287-find-the-duplicate-number) |
+| [0287-find-the-duplicate-number](https://github.com/Krishna02213/DSA_Solution-/tree/main/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/Krishna02213/DSA_Solution-/tree/master/0209-minimum-size-subarray-sum) |
-| [0560-subarray-sum-equals-k](https://github.com/Krishna02213/DSA_Solution-/tree/master/0560-subarray-sum-equals-k) |
+| [0209-minimum-size-subarray-sum](https://github.com/Krishna02213/DSA_Solution-/tree/main/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Krishna02213/DSA_Solution-/tree/main/0560-subarray-sum-equals-k) |
 ## Binary Lifting
 |  |
 | ------- |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
-| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna02213/DSA_Solution-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Krishna02213/DSA_Solution-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/Krishna02213/DSA_Solution-/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0209-minimum-size-subarray-sum](https://github.com/Krishna02213/DSA_Solution-/tree/master/0209-minimum-size-subarray-sum) |
-| [0438-find-all-anagrams-in-a-string](https://github.com/Krishna02213/DSA_Solution-/tree/master/0438-find-all-anagrams-in-a-string) |
-| [0904-fruit-into-baskets](https://github.com/Krishna02213/DSA_Solution-/tree/master/0904-fruit-into-baskets) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Krishna02213/DSA_Solution-/tree/main/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Krishna02213/DSA_Solution-/tree/main/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Krishna02213/DSA_Solution-/tree/main/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/Krishna02213/DSA_Solution-/tree/main/0904-fruit-into-baskets) |
 ## Quicksort
 |  |
 | ------- |
-| [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/master/0075-sort-colors) |
+| [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/main/0075-sort-colors) |
 ## Bubble Sort
 |  |
 | ------- |
-| [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/master/0075-sort-colors) |
+| [0075-sort-colors](https://github.com/Krishna02213/DSA_Solution-/tree/main/0075-sort-colors) |
 ## Manacher
 |  |
 | ------- |
-| [0005-longest-palindromic-substring](https://github.com/Krishna02213/DSA_Solution-/tree/master/0005-longest-palindromic-substring) |
+| [0005-longest-palindromic-substring](https://github.com/Krishna02213/DSA_Solution-/tree/main/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
