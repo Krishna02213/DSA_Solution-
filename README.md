@@ -278,6 +278,7 @@ Email Me 👉 ✉️ **krishnasen0006@gmail.com** For Project or Anything Else. 
 | [0584-find-customer-referee](https://github.com/Krishna02213/DSA_Solution-/tree/main/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Krishna02213/DSA_Solution-/tree/main/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Krishna02213/DSA_Solution-/tree/main/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Krishna02213/DSA_Solution-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Krishna02213/DSA_Solution-/tree/main/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Krishna02213/DSA_Solution-/tree/main/1757-recyclable-and-low-fat-products) |
 ## Greedy
